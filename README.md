@@ -12,9 +12,13 @@ The resulting csv file, named en-wikipedia_traffic_200801-201809.csv, contains t
 
 ## Software and modules
 Python 3.7.3
+
 Matplotlib 3.0.2
+
 Numpy 1.16.2
+
 Pandas 0.24.2
+
 Requests 2.21.0
 
 ## Issues
